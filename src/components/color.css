@@ -1,0 +1,24 @@
+.primary-bg {
+  background-color: #002b44;
+  background: #002b44;
+}
+
+.primary-text {
+  color: #002b44;
+}
+
+.secondary-bg {
+  background-color: #1fdca7;
+  background: #1fdca7;
+}
+
+.secondary-text {
+  color: #1fdca7;
+}
+
+.progress {
+  stroke-linecap: round;
+  stroke-width: 12;
+  stroke-dasharray: 339.292;
+  stroke-dashoffset: 50.89;
+}
